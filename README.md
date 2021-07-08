@@ -1,15 +1,10 @@
-### Hellooo! 👋
-<!--
-**aadi1405/aadi1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hellooo, I'm Aadila! 👋
 
 Computer Science Senior at BITS Pilani, Dubai.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 
+Creating & Learning with:
+Java :java
+
 - 😄 Here to have some fun with tech!
-- ⚡ Fun fact: I love dogs and am always ready to try new food! 
--->
+- 💙 Fun fact: I love dogs, am always ready to try new food and love travelling! 
+- 🤝 We can stay connected on <a href="https://www.linkedin.com/in/aadila-jasmin/">LinkedIn</a>
