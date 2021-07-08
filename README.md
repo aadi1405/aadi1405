@@ -1,7 +1,7 @@
+<p>
 ### Hellooo, I'm Aadila! 👋
-
 Computer Science Senior at BITS Pilani, Dubai.
-
+</p>
 Creating & Learning with:
 Java :java
 
