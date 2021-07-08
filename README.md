@@ -26,4 +26,4 @@ Computer Science Senior at BITS Pilani, Dubai.
 - 🤝 We can stay connected on <a href="https://www.linkedin.com/in/aadila-jasmin/">LinkedIn</a>
 
 
-###STAY AWESOME!
+### **Stay Awesome!**
