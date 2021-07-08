@@ -1,4 +1,5 @@
-<p>
+<p align="center">
+// 
 ### Hellooo, I'm Aadila! 👋
 Computer Science Senior at BITS Pilani, Dubai.
 </p>
