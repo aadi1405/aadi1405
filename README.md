@@ -22,7 +22,7 @@ Computer Science Senior at BITS Pilani, Dubai.
 
 ### A little bit more about me:
 - 💻 Here to have some fun with tech! 
-- ⭐ Interests: Machine Learning, Product Design, Data Science, Business Management
+- ⭐ Interests: Artificial Intelligence, Product Design, Data Science, Business Management
 - 💙 Fun fact: I love dogs, food, basketball, swimming & travelling 
 - 🤝 We can stay connected on <a href="https://www.linkedin.com/in/aadila-jasmin/">LinkedIn</a>
 
