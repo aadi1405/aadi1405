@@ -18,6 +18,8 @@ Computer Science Senior at BITS Pilani, Dubai.
 ![](https://img.shields.io/badge/AdobeIllustrator-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=120A8F)
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3299CC)
 ![](https://img.shields.io/badge/Notion-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008080)
+![](https://img.shields.io/badge/PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008080)
+
 
 
 - 💻 Here to have some fun with tech! 
