@@ -1,6 +1,8 @@
 ## Hellooo, I'm Aadila! 👋
 
-Computer Science Senior at BITS Pilani, Dubai.
+- Masters in Engineering Management Student at Duke University
+- Computer Science Engineering graduate from BITS Pilani
+- 💻 Here to have some fun with tech! 
 
 ### Creating & learning with:
 
@@ -21,8 +23,6 @@ Computer Science Senior at BITS Pilani, Dubai.
 ![](https://img.shields.io/badge/PowerBI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008080)
 
 
-
-- 💻 Here to have some fun with tech! 
 - 🤝 We can stay connected on <a href="https://www.linkedin.com/in/aadila-jasmin/">LinkedIn</a>
 
 
