@@ -2,7 +2,8 @@
 
 - Masters in Engineering Management Student at Duke University
 - Computer Science and Engineering graduate from BITS Pilani
-- 💻 Here to have some fun with tech! 
+- 💻 Here to have some fun with tech! #WomenInSTEM
+- Bringing in some diversity  🇮🇳 🇰🇼 🇦🇪 🇺🇸
 
 ### Creating & learning with:
 
