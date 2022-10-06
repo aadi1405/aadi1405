@@ -3,7 +3,7 @@
 - Masters in Engineering Management - Data Analytics & Machine Learning Student at Duke University
 - Computer Science and Engineering graduate from BITS Pilani
 - 💻 Here to have some fun with tech! #WomenInSTEM
-- Bringing in some diversity  🇮🇳 🇰🇼 🇦🇪 🇺🇸
+- Bringing in some diversity   🇰🇼 🇮🇳 🇦🇪 🇺🇸
 
 ### Creating & learning with:
 
