@@ -6,6 +6,7 @@
 - 💻 Here to have some fun with tech! #WomenInSTEM
 - Bringing in some diversity   🇰🇼 🇮🇳 🇦🇪 🇺🇸
 
+
 ### Creating & learning with:
 
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1E90FF)
@@ -25,7 +26,7 @@
 ![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3299CC)
 ![](https://img.shields.io/badge/Notion-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Salesforce-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=120A8F)
-
+and more!
 
 - 🤝 We can stay connected on <a href="https://www.linkedin.com/in/aadila-jasmin/">LinkedIn</a>
 
