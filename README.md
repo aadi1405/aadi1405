@@ -1,6 +1,6 @@
 ## Hellooo, I'm Aadila! 👋
 
-- Masters Engineering - Data Analytics & Machine Learning Student at Duke University (May 23')
+- Masters Engineering - Data Analytics & Machine Learning at Duke University
 - Enhancing my technical skills while learning how businesses work!
 - Computer Science and Engineering graduate from BITS Pilani
 - 💻 Here to have some fun with tech! #WomenInSTEM
